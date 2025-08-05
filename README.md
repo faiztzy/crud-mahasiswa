@@ -1,7 +1,5 @@
 Preview
-
-<img width="1150" height="633" alt="screenshoot" src="https://github.com/user-attachments/assets/3a9e55eb-de0c-41bf-88b2-74c83c0f711f" />
-
+<img width="1150" height="449" alt="screenshoot " src="https://github.com/user-attachments/assets/94a8a15e-d293-44a4-ac53-cf49636e1082" />
 
 Langkah yang perlu dilakukan
 
